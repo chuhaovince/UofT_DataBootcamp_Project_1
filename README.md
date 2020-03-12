@@ -8,16 +8,16 @@ More analysis can be found in *Project_1_presentation.pptx* file
 
 some findings:
 
-![parking ticket locations in Feb 2018](/Results/Parking tickets locations 2018 Feb.png)
+![parking ticket locations in Feb 2018](/Results/Parking%20tickets%20locations%202018%20Feb.png)
 
 
 ![rain vs tickets](/Results/Rain%20vs%20tickers.png)
 
 
-![snow vs tickets](/Results/snow vs tickets.png)
+![snow vs tickets](/Results/snow%20vs%20tickets.png)
 
 
-![tickets in March 2018](/Results/tickets in March.png)
+![tickets in March 2018](/Results/tickets%20in%20March.png)
 
 
-![weekday result](/Results/weekday result.png)
+![weekday result](/Results/weekday%20result.png)
