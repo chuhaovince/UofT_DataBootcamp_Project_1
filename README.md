@@ -4,9 +4,9 @@ More analysis can be found in *Project_1_presentation.pptx* file
 
 •	Extracted data from the Census Canada and enriched address data with geo API tools
 
-![APIS](/Results/Code1.PNG.png)
+![APIS](/Results/Code1.PNG)
 
-![geoapis](/Results/Code3.PNG.png)
+![geoapis](/Results/Code3.PNG)
 
 •	Used the pandas to preprocess and transform data, GeoPandas and bokeh to analyze and visualize the data, created a choropleth map for parking tickets
 
