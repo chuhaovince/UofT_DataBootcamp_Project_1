@@ -11,7 +11,7 @@ some findings:
 ![parking ticket locations in Feb 2018](/Results/Parking tickets locations 2018 Feb.png)
 
 
-![rain vs tickets](/Results/Rain vs tickers.png)
+![rain vs tickets](/Results/Rain%20vs%20tickers.png)
 
 
 ![snow vs tickets](/Results/snow vs tickets.png)
